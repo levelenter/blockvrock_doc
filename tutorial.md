@@ -11,5 +11,9 @@ git add -A
 git commit 
 
 # コミットコメントをviコメントで書く
-
+vi 
+iで編集モードに入る
+ESCでカーソルモードに入る
+:wq
+:q!
 
