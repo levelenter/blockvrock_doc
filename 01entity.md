@@ -4,4 +4,6 @@
 
 ![シーンのブロック](images/01entity/scene.png)
 
+![シーンのブロック](images/01entity/scene.png)
+
 
