@@ -17,11 +17,11 @@ ID:ブロックの名前を設定することができます
 ![組み合わせるブロック](./images\rectangular\blue_size.png)
 
 ## 使用例
-例：VR空間に直方体ブロックを大きさ<span style="color: red; ">X</span>[1]、<span style="color: blue; ">Y</span>[2]、<span style="color: red; ">Z</span>[1]で出現させる。
+例：VR空間に直方体ブロックを大きさ<span style="color: red; ">X</span>[1]、<span style="color: blue; ">Y</span>[2]、<span style="color: yellow; ">Z</span>[1]で出現させる。
 
 ![使用例](./images\rectangular\rec_ex.png)
 
-説明：直方体、ID「block」を位置：<span style="color: red; ">X</span>「0」、<span style="color: blue; ">Y</span>「0」、<span style="color: red; ">Z</span>「-4」に色を<span style="color: purple; ">紫</span>で設定。大きさを大きさブロックで<span style="color: red; ">X</span>「1」、<span style="color: blue; ">Y</span>「2」、<span style="color: red; ">Z</span>「1」に設定。
+説明：直方体、ID「block」を位置：<span style="color: red; ">X</span>「0」、<span style="color: blue; ">Y</span>「0」、<span style="color: yellow; ">Z</span>「-4」に色を<span style="color: purple; ">紫</span>で設定。大きさを大きさブロックで<span style="color: red; ">X</span>「1」、<span style="color: blue; ">Y</span>「2」、<span style="color: yellow; ">Z</span>「1」に設定。
 
 実行例（結果）：
 
