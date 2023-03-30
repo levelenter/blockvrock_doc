@@ -14,7 +14,7 @@ ID:ブロックの名前を設定することができます
 ## 組み合わせるブロック
 大きさブロック：球体の大きさを変更することが出来ます
 
-![組み合わせるブロック](./images\rectangular\blue_size.png)
+![組み合わせるブロック](https://github.com/levelenter/blockvrock_doc/blob/main/images/rectangular/blue_size.png?raw=true)
 
 ## 使用例
 例：VR空間に球体ブロックを大きさ<span style="color: red; ">X</span>[2]、<span style="color: blue; ">Y</span>[1]、<span style="color: yellow; ">Z</span>[1]で出現させる。
