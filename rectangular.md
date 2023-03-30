@@ -1,5 +1,5 @@
 # ブロック名：直方体
-![直方体のブロック]("https://github.com/levelenter/blockvrock_doc/blob/main/images/rectangular/red_rec.png?raw=true")
+![直方体のブロック](https://github.com/levelenter/blockvrock_doc/blob/main/images/rectangular/red_rec.png?raw=true)
 
 ## 機能説明
 VR空間に任意のサイズの立方体を追加します
