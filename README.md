@@ -11,4 +11,8 @@ TODO:
 
 [直方体](./rectangular.md)
 
+[球体](./sphere.md)
+
+[カメラ](./camera.md)
+
 著者　波多野遊然
