@@ -38,6 +38,7 @@ VR空間の初期の視点の座標を設定します。
 説明：固定された直方体の位置と背景からカメラの視点が移動していることがわかります。
 
 実行例（結果）：
+
 <u>初期位置</u>
 ![実行例1](https://github.com/levelenter/blockvrock_doc/blob/main/images/camera/cam_pic1.png?raw=true)
 
