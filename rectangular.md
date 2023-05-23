@@ -9,7 +9,7 @@ ID:ブロックの名前を設定することができます
 位置：VR空間のどこに配置するか設定することができます
 色：ブロックの色を設定することができます
 
-![直方体のオプション](../../blob/main/images/rectangular/rec_vec.jpg?raw=true)
+![直方体のオプション](./images/rectangular/rec_vec.jpg?raw=true)
 
 ## 組み合わせるブロック
 大きさブロック：直方体の大きさを変更することが出来ます
