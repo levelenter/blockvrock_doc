@@ -62,7 +62,15 @@
 
 ## 環境(緑)のブロックについて
 
-[背景](./environment.md)
+[背景](./greenblock/environment.md)
+
+[全天球](./greenblock/panoramicsphere.md)
+
+[ライト](./greenblock/light.md)
+
+## 物理エンジン(紺色)のブロックについて
+
+
 
 
 著者　波多野遊然
