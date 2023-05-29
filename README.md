@@ -12,7 +12,7 @@
 
 ## 物理(赤)のブロックについて
 
-[直方体](./rectangular.md)
+[直方体](../rectangular.md)
 
 [球体](./sphere.md)
 
