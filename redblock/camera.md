@@ -1,5 +1,5 @@
 # ブロック名：カメラ
-![球体のブロック](https://github.com/levelenter/blockvrock_doc/blob/main/images/camera/red_cam.png?raw=true)
+![球体のブロック](../images/camera/red_cam.png?raw=true)
 
 ## 機能説明
 作成したVR空間の初期の始点の座標を設定します。
