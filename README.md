@@ -7,8 +7,11 @@
 [物体のブロックについて](./01entity.md)
 
 ## シーン(ピンク)のブロックについて
-[]
+[シーンスタート](./pinkblock/scenestart.md)
 
+[ARシーン](./pinkblock/arscene.md)
+
+[コンソールを表示する](./pinkblock/previewconsole.md)
 
 ## 物理(赤)のブロックについて
 
