@@ -17,11 +17,17 @@
 
 [直方体](./redblock/rectangular.md)
 
+<img src="./images/rectangular/red_rec.png" width="400">
+
 [球体](./redblock/sphere.md)
+
+<img src="./images/sphere/red_sph.png" width="400">
 
 [半角英数字ひらがなカタカナ](./redblock/character.md)
 
 [カメラ](./redblock/camera.md)
+
+<img src="./images/camera/red_cam.png" width="400">
 
 [グループ](./redblock/group.md)
 
