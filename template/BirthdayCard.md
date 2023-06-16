@@ -1,10 +1,11 @@
-# ＶＲ誕生日カードの作り方
+# フォトアルバム付きバースデーメッセージVRの作り方
 BLOCKVROCKのテンプレート誕生日カードを使った、世界に1つだけのオリジナルVR誕生日カードの作り方を紹介します
 
 ## BLOCKVROCKにログイン
-BLOCKVROCKのサイトにアクセスしたら、メールアドレスとパスワードを入力してログインしましょう。
+BLOCKVROCKのサイトにアクセスしたら、ログインしましょう。
 アカウントがまだない人は、アカウント作成からアカウントを作成してください。
-※Google、Twitter、GitHubのサインインにも対応してます。
+Google、Twitter、GitHubのサインインにも対応しており、ワンクリックでログインできます。
+どのアカウントもない方は、メールアドレスとパスワードでアカウントを作成してください。
 
 ![ログイン画面](https://github.com/levelenter/blockvrock_doc/blob/main/images/template/BirthdayCard/birthday_card_1.png?raw=true)
 
@@ -18,6 +19,7 @@ BLOCKVROCKではプログラムを作るための作業スペースのことを�
 ## プロジェクトでテンプレートを呼び出す
 「名前のないプロジェクト」というプロジェクトができました。
 わかりやすいように名前を変更してプロジェクトを開きます。
+※名前は変更しなくてもプログラミングできます。
 
 ![新しいプロジェクト](https://github.com/levelenter/blockvrock_doc/blob/main/images/template/BirthdayCard/birthday_card_3.png?raw=true)
 ![プロジェクト名の変更](https://github.com/levelenter/blockvrock_doc/blob/main/images/template/BirthdayCard/birthday_card_4.png?raw=true)
@@ -26,8 +28,8 @@ BLOCKVROCKではプログラムを作るための作業スペースのことを�
 
 ![プログラミング画面](https://github.com/levelenter/blockvrock_doc/blob/main/images/template/BirthdayCard/birthday_card_5.png?raw=true)
 
-プロジェクトが開けました。
-BLOCKVROCKは左側のツールボックスにあるコードブロックを、右側の斑点模様の空間ワークスペースにドラックアンドドロップして組み合わせてプログラミングをします。
+プロジェクトが開きました。
+BLOCKVROCKは左側のツールボックスにあるコードブロックを、右側のワークスペースにドラックアンドドロップして組み合わせてプログラミングをします。
 今回は0からプログラムを作るのではなく、テンプレートを呼び出してテンプレートのプログラムを書き換える方法でVR誕生日カードを作りたいと思います。
 
 ## プロジェクトでテンプレートを呼び出す
@@ -93,13 +95,14 @@ HAPPY BIRTHDAYの下に名前が追加されました。
 
 ## 写真を変更する
 次に写真の変更、追加の方法を解説します。
-まずはファイルアップロード画面を開きます。
-左のツールボックスの項目「追加」の「3Dモデル、画像、動画、音楽ファイル」をクリックします。
+ファイルのアップロード画面は左のツールボックスの項目「追加」の「3Dモデル、画像、動画、音楽ファイル」をクリックします。
+※スマホから写真をアップロードする場合は、画面を開いて次のセクションをみてください。
 
 ![追加、ファイルアップロード画面](https://github.com/levelenter/blockvrock_doc/blob/main/images/template/BirthdayCard/birthday_card_19.png?raw=true)
 
 ファイルアップロード画面が開きました。
 この画面では画像や動画のファイルをアップロードしたり、アップロードしたファイルの管理とプログラムへの追加を行うことができます。
+PCから写真をアップロードする場合はファイルを選択から写真ファイルを選択しましょう。
 
 ![ファイルアップロード画面](https://github.com/levelenter/blockvrock_doc/blob/main/images/template/BirthdayCard/birthday_card_20.png?raw=true)
 
