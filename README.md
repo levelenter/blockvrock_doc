@@ -225,4 +225,4 @@
 
 [クリックした時に「ブロック名」を処理する](./definitionblock/clickprocess.md)
 
-著者　波多野遊然
+Author:　波多野遊然
