@@ -37,6 +37,8 @@
 
 [グループ](./redblock/group.md)
 
+![image](https://github.com/levelenter/blockvrock_doc/assets/43167728/bcf038ef-af3d-4cd5-88b6-a44b51ebc9b6)
+
 ## 属性(青)のブロックについてい
 
 [常に直進](./blueblock/alwaysstraight.md)
