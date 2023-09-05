@@ -29,6 +29,8 @@
 
 [半角英数字ひらがなカタカナ](./redblock/character.md)
 
+![image](https://github.com/levelenter/blockvrock_doc/assets/43167728/9d7d1b7b-acfb-4bdb-a4a9-5f39c9b332d5)
+
 [カメラ](./redblock/camera.md)
 
 <img src="./images/camera/red_cam.png" width="400">
