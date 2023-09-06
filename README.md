@@ -141,8 +141,6 @@
 
 <img src="./images/environment3/haikei_3.jpg" width="400">
 
-  </div>
-</details>
 
 
 ## 物理エンジン(紺色)のブロックについて
@@ -246,5 +244,8 @@
 [初期処理](./definitionblock/initialprocess.md)
 
 [クリックした時に「ブロック名」を処理する](./definitionblock/clickprocess.md)
+
+  </div>
+</details>
 
 Author:　波多野遊然
