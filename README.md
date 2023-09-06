@@ -53,6 +53,11 @@
 
 <img src="./images/blue/3.jpg" width="220">
 
+<details>
+  <summary>**剣道段位をクリックで展開**</summary>
+    <div>
+
+
 [ID](./blueblock/id.md)
 
 <img src="./images/blue/4.jpg" width="220">
@@ -112,6 +117,11 @@
 [ネットワーク共有](./blueblock/sharenetwork.md)
 
 <img src="./images/blue/18.jpg" width="220">
+
+
+
+  </div>
+</details>
 
 ## 環境(緑)のブロックについて
 
