@@ -54,7 +54,7 @@
 <img src="./images/blue/3.jpg" width="220">
 
 <details>
-  <summary>**剣道段位をクリックで展開**</summary>
+  <summary> ** 未整理 ** </summary>
     <div>
 
 
