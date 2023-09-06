@@ -54,7 +54,7 @@
 <img src="./images/blue/3.jpg" width="220">
 
 <details>
-  <summary> ** 未整理 ** </summary>
+  <summary>未整理</summary>
     <div>
 
 
@@ -129,6 +129,10 @@
 
 <img src="./images/environment/envir.jpg" width="220">
 
+<details>
+  <summary>未整理</summary>
+    <div>
+
 [全天球](./greenblock/panoramicsphere.md)
 
 <img src="./images/environment2/haikei_2.jpg" width="150">
@@ -136,6 +140,10 @@
 [ライト](./greenblock/light.md)
 
 <img src="./images/environment3/haikei_3.jpg" width="400">
+
+  </div>
+</details>
+
 
 ## 物理エンジン(紺色)のブロックについて
 
