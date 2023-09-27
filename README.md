@@ -62,7 +62,7 @@
   <summary>未整理</summary>
     <div>
 
-[位置](./blueblock/alwaysstraight.md)
+[位置](./blueblock/position.md)
 
 <img src="./images/blue/5.jpg" width="220">
 
