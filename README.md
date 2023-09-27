@@ -53,14 +53,14 @@
 
 <img src="./images/blue/3.jpg" width="220">
 
-<details>
-  <summary>未整理</summary>
-    <div>
-
-
 [ID](./blueblock/id.md)
 
 <img src="./images/blue/4.jpg" width="220">
+
+
+<details>
+  <summary>未整理</summary>
+    <div>
 
 [位置](./blueblock/alwaysstraight.md)
 
