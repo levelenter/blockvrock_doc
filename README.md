@@ -63,9 +63,6 @@
 
 <img src="./images/blue/5.jpg" width="220">
 
-<details>
-  <summary>未整理</summary>
-    <div>
 
 [回転](./blueblock/turn.md)
 
@@ -74,6 +71,12 @@
 [大きさ](./blueblock/size.md)
 
 <img src="./images/blue/7.jpg" width="220">
+
+
+<details>
+  <summary>未整理</summary>
+    <div>
+
 
 [チェックポイント](./blueblock/checkpoint.md)
 
