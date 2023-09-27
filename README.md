@@ -58,13 +58,14 @@
 <img src="./images/blue/4.jpg" width="220">
 
 
-<details>
-  <summary>未整理</summary>
-    <div>
 
 [位置](./blueblock/position.md)
 
 <img src="./images/blue/5.jpg" width="220">
+
+<details>
+  <summary>未整理</summary>
+    <div>
 
 [回転](./blueblock/turn.md)
 
