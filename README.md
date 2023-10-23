@@ -250,5 +250,7 @@
 [クラスルームとは](./class_room/classroom01.md)
 
 
+<BR>
+<BR>
+Author:　Levelenter　山本大、村上史尚、波多野遊然
 
-Author:　波多野遊然
