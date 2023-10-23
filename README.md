@@ -243,7 +243,12 @@
 
 [クリックした時に「ブロック名」を処理する](./blocks/definitionblock/clickprocess.md)
 
-  </div>
+</div>
 </details>
+
+## クラスルーム機能について（[有料]スクールアカウント専用)
+[クラスルームとは](./class_room/classroom01.md)
+
+
 
 Author:　波多野遊然
