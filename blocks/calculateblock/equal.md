@@ -6,7 +6,7 @@
 
 比較する値には変数を入れることもできます。
 
-## 例：
+## 使用例：
 変数"x"に入っている数値が10かを調べます。
 
 <img width="144" alt="スクリーンショット 2025-01-15 18 20 43" src="https://github.com/user-attachments/assets/deb5462f-83ec-4403-8e4a-783a28af1814" />
