@@ -1,4 +1,4 @@
-# かつ
+# ブロック名：かつ
 <img width="156" alt="スクリーンショット 2025-01-15 15 43 17" src="https://github.com/user-attachments/assets/c5fe5c98-eb5d-4681-bd67-e1335bc7c472" />
 
 ## 機能説明
