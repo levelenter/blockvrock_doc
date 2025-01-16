@@ -9,4 +9,5 @@
 
 ## 使用例
 変数stringを作ってHello blockcrock Worldの値をセットしてVR空間に文字を表示するブロックに値を渡してVR空間に値を表示します  
+※変数を呼び出したい時はイコールを使って呼び出します 例：=変数名
 <img width="544" alt="スクリーンショット 2025-01-16 10 47 26" src="https://github.com/user-attachments/assets/7a8e37b2-eebe-4bcf-b32a-cf45b729ad7e" />
