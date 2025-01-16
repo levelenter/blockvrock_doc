@@ -15,7 +15,7 @@
 ## 使用例
 例：背景をエジプト風に設定する
 
-![使用例](../main/images/environment/scenestart.jpg?raw=true)
+![使用例](../images/environment/scenestart.jpg?raw=true)
 
 説明：背景ブロックの「フォレスト」を選択し、「エジプト」に設定
 
