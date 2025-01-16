@@ -1,5 +1,5 @@
 # ブロック名：背景
-![背景のブロック](https://github.com/levelenter/blockvrock_doc/blob/main/images/environment/envir.jpg?raw=true)
+![背景のブロック](https://github.com/levelenter/blockvrock_doc/images/environment/envir.jpg?raw=true)
 
 ## 機能説明
 白い背景から任意の背景へと変えることができます
