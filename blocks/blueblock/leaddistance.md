@@ -14,4 +14,6 @@
 ## 使用例
 操作者が移動しても常に説明用のテキストを画面内に表示したいです。
 
-<img width="627" alt="スクリーンショット 2025-01-16 8 51 39" src="https://github.com/user-attachments/assets/a67f22f1-99e6-4699-ac70-5fa434b600e7" />
+<img width="1325" alt="スクリーンショット 2025-01-16 11 16 31" src="https://github.com/user-attachments/assets/1a0ad002-63a5-48f3-95a0-de61bb08bb67" />
+
+<img width="625" alt="スクリーンショット 2025-01-16 11 18 27" src="https://github.com/user-attachments/assets/0df1edba-f953-4f66-83d7-e20d30ec4878" />
