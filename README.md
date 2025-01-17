@@ -12,9 +12,21 @@
 
 <img src="./blocks/images/pink/1.jpg" width="300">
 
+[ARシーンスタート](./blocks/pinkblock/arscenesstart.md)
+
+<img src="https://github.com/user-attachments/assets/82a9bf43-2e58-4fbe-944c-ba3b492d5d10">
+
 [AR シーン](./blocks/pinkblock/arscene.md)
 
 <img src="./blocks/images/pink/2.jpg" width="300">
+
+[画像ARシーン](./blocks/pinkblock/imagearscene.md)
+
+<img src="https://github.com/user-attachments/assets/8284cb91-00d4-4588-a01b-29de2cccea06">
+
+[顔ARシーン](./blocks/pinkblock/facearscene.md)
+
+<img src="https://github.com/user-attachments/assets/baa24785-ed05-4495-a27c-8839a8f8afa3">
 
 [コンソールを表示する](./blocks/pinkblock/previewconsole.md)
 
