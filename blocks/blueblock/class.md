@@ -20,5 +20,5 @@ elements.forEach((element) => {
   element.setAttribute('ahead', 'speed:1; pitch:false; stopattouch:false');  
 });  
 
-・BLOCKモードで実装したコードを"シーンスタート"以外全て消す。
+・BLOCKモードで実装したコードを"シーンスタート"以外全て消す。  
 　※CODEモードを使っているため、BLOCKモードで実装したコードと衝突が怒ってしまうからです。
