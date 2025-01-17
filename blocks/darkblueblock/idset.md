@@ -1,4 +1,5 @@
 # ID[＊]がぶつかった時に、対手のIDを[＊]にセットブロックに関する記述です
+<img width="558" alt="スクリーンショット 2025-01-17 19 05 34" src="https://github.com/user-attachments/assets/cdd1da13-adcd-4ce8-a8ce-5619fa0742b6" />
 
 ## 機能説明
 左の任意のIDが他の物体とぶつかった時にぶつかった相手の情報を右の任意のIDの変数で取得する  
