@@ -6,7 +6,7 @@
 "画像ARマーカー"ブロックと合わせて実装してください。
 
 このブロックの入力部分には使用したい画像を加工したmdファイルを入れてください。  
-mdファイルは"https://hiukim.github.io/mind-ar-js-doc/tools/compile/"で作成することができます。
+mdファイルは"https://hiukim.github.io/mind-ar-js-doc/tools/compile/" で作成することができます。  
 使用するmdファイルはマイアセットに登録してから使用してください。
 
 # 使用例
