@@ -1,4 +1,5 @@
 # 顔ARマーカーに関する記述です
+<img width="189" alt="スクリーンショット 2025-01-17 19 08 02" src="https://github.com/user-attachments/assets/bce11b6b-24c8-4a97-ac56-82ac053c614d" />
 
 ## 機能説明
 顔をARマーカーとして認識する判定処理ができます  
