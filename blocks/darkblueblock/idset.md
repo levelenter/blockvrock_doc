@@ -10,4 +10,5 @@
 
 ## 使用例
 球体block1が他の物体に当たった時に当たった物体情報をID targetとして取得します  
-<img width="745" alt="スクリーンショット 2025-01-17 13 51 54" src="https://github.com/user-attachments/assets/2b8b21d0-643b-4cfb-b3c6-260502154e2b" />
+<img width="745" alt="スクリーンショット 2025-01-17 13 51 54" src="https://github.com/user-attachments/assets/2b8b21d0-643b-4cfb-b3c6-260502154e2b" />  
+<img width="401" alt="スクリーンショット 2025-01-17 14 20 25" src="https://github.com/user-attachments/assets/e5627678-5570-4471-b086-5b05358a23d6" />
