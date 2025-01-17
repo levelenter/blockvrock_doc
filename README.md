@@ -169,6 +169,18 @@
 
 <img src="./blocks/images/AR/ar3/ar_3.jpg" width="250">
 
+ARマーカーが反応した時の処理  
+
+<img width="370" alt="スクリーンショット 2025-01-17 16 13 56" src="https://github.com/user-attachments/assets/a43f1724-97e4-4279-9944-7858bea30265" />
+
+画像ARマーカー  
+
+<img width="134" alt="スクリーンショット 2025-01-17 16 35 51" src="https://github.com/user-attachments/assets/c9d73f66-be5c-43e0-9987-2d1e07918555" />
+
+顔ARマーカー  
+
+<img width="120" alt="スクリーンショット 2025-01-17 16 42 34" src="https://github.com/user-attachments/assets/abf3b955-c24f-420b-a476-502b2536b734" />
+
 ## 制御(黄色)のブロックについて
 
 [変数「X」をカウントして「＊」から「＊」まで繰り返す](./blocks/yellowblock/countandloop.md)
