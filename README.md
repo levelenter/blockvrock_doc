@@ -1,3 +1,6 @@
+
+
+
 # blockvrock_doc
 
 # このドキュメントについて
@@ -14,7 +17,7 @@
 
 [ARシーンスタート](./blocks/pinkblock/arscenesstart.md)
 
-<img src="https://github.com/user-attachments/assets/82a9bf43-2e58-4fbe-944c-ba3b492d5d10">
+<img src="https://github.com/user-attachments/assets/82a9bf43-2e58-4fbe-944c-ba3b492d5d10" width="150">
 
 [AR シーン](./blocks/pinkblock/arscene.md)
 
@@ -22,11 +25,11 @@
 
 [画像ARシーン](./blocks/pinkblock/imagearscene.md)
 
-<img src="https://github.com/user-attachments/assets/8284cb91-00d4-4588-a01b-29de2cccea06">
+<img src="https://github.com/user-attachments/assets/8284cb91-00d4-4588-a01b-29de2cccea06" width="1050">
 
 [顔ARシーン](./blocks/pinkblock/facearscene.md)
 
-<img src="https://github.com/user-attachments/assets/baa24785-ed05-4495-a27c-8839a8f8afa3">
+<img src="https://github.com/user-attachments/assets/baa24785-ed05-4495-a27c-8839a8f8afa3" width="180">
 
 [コンソールを表示する](./blocks/pinkblock/previewconsole.md)
 
@@ -84,10 +87,6 @@
 
 <img src="./blocks/images/blue/7.jpg" width="220">
 
-<details>
-  <summary>未整理</summary>
-    <div>
-
 [チェックポイント](./blocks/blueblock/checkpoint.md)
 
 <img src="./blocks/images/blue/8.jpg" width="300">
@@ -132,18 +131,11 @@
 
 <img src="./blocks/images/blue/18.jpg" width="220">
 
-  </div>
-</details>
-
 ## 環境(緑)のブロックについて
 
 [背景](./blocks/greenblock/environment.md)
 
 <img src="./blocks/images/environment/envir.jpg" width="220">
-
-<details>
-  <summary>未整理</summary>
-    <div>
 
 [全天球](./blocks/greenblock/panoramicsphere.md)
 
@@ -181,15 +173,11 @@
 
 <img src="./blocks/images/AR/ar3/ar_3.jpg" width="250">
 
-ARマーカーが反応した時の処理  
-
-<img width="370" alt="スクリーンショット 2025-01-17 16 13 56" src="https://github.com/user-attachments/assets/a43f1724-97e4-4279-9944-7858bea30265" />
-
-[画像ARマーカー](./blocks/purpleblock/ImageARmarker.md)  
+[画像ARマーカー](./blocks/purpleblock/ImageARmarker.md) 
 
 <img width="134" alt="スクリーンショット 2025-01-17 16 35 51" src="https://github.com/user-attachments/assets/c9d73f66-be5c-43e0-9987-2d1e07918555" />
 
-[顔ARマーカー](./blocks/purpleblock/FaceARmarker.md)  
+[顔ARマーカー](./blocks/purpleblock/FaceARmarker.md) 
 
 <img width="120" alt="スクリーンショット 2025-01-17 16 42 34" src="https://github.com/user-attachments/assets/abf3b955-c24f-420b-a476-502b2536b734" />
 
@@ -221,11 +209,11 @@ ARマーカーが反応した時の処理
 
 [ブロック「id」を「＊」に変更](./blocks/yellowblock/rename.md)
 
-<img src="./blocks/images/control/control_id.jpg" width="300">
+<img src="./blocks/images/control/control_id.jpg" width="250">
 
 [コメントアウト](./blocks/yellowblock/commentout.md)
 
-<img src="./blocks/images/control/control_co.jpg" width="100">
+<img src="./blocks/images/control/control_co.jpg" width="200">
 
 ## 演算のブロックについて
 
@@ -265,7 +253,12 @@ ARマーカーが反応した時の処理
 
 [初期処理](./blocks/definitionblock/initialprocess.md)
 
+<img src="https://github.com/user-attachments/assets/50010585-f102-47f9-bd91-b080320d4d8b" width="100" />
+
 [クリックした時に「ブロック名」を処理する](./blocks/definitionblock/clickprocess.md)
+
+<img src="https://github.com/user-attachments/assets/ae274fe3-3710-4177-a4e3-f42d58bc22ec"  width="374" />
+
 
 </div>
 </details>
@@ -277,4 +270,5 @@ ARマーカーが反応した時の処理
 <BR>
 <BR>
 Author:　Levelenter　山本大、村上史尚、波多野遊然
+
 
